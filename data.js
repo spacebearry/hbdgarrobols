@@ -26,7 +26,7 @@ const letterContent = `
     I'm lucky to have known the little Gianne, the workaholic G, and now the goal-getter Gabby. Whoever is next, I'm gonna be rooting for her too.
     </p><br>
     <p>
-    Happy birthday. Here's to growing up but never growing apart    (100)
+    Happy birthday. Here's to growing up but never growing apart(13262)
     </p><br>
     <p>PS. I miss you forreal</p><br><br>
     <h1 id="bottom"> LOVE, SAMENG </h1><br>
