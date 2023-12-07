@@ -14,7 +14,7 @@ const letterContent = `
     <h1 id="top"> DEAR GIANNE, </h1><br>
     <p> Happy Birthday!</p> <br>
     <p> 
-    I am running out of ideas, so here's a special edition of WNRS for you. JK! Those questions are the ones I wanted to ask but wasn't able to. Seriously, time sucks. I wish we could go back to 2008 when time was unlimited, and our schedules revolved around chikas, daydreaming, and just laughing out of nowhere.
+    I am running out of ideas, so here's a special edition of WNRS for you. JK! Those questions are the ones I wanted to ask but wasn't able to...because..life. Seriously, time sucks. I wish we could go back to 2008 when time was unlimited, and our schedules revolved around chikas, daydreaming, and just laughing out of nowhere.
     </p><br>
     <p>
     But life happens, and it happens fast. Still, I'm grateful for all our quick messages, IG reels, and TikToks. Seems to be the littlest things, but they really make my day. You always make my day.
